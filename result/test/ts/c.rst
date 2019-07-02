@@ -1,5 +1,4 @@
-test
 测试文本
 ==============================
 
-A man killed his daughter, son-in-law and two grandsons in the Jalalpur area. His motive was reportedly that his daughter chose her own husband four years ago.The incident took place in Pindi Bhattian, according to SAMAA TV correspondent Bilal Akbar.According to the police all four were killed using a sharp blade.The bodies have been sent to the local taluka headquarters hospital.The authorities say the man fled after the incident but the police were able to arrest him after conducting raids. A case has been registered against him at the Jalalpur Bhattian police station.
+一名男子在贾拉尔普尔地区杀死了他的女儿，女婿和两个孙子。据报道，他的女儿四年前选择了自己的丈夫。事件发生在Pindi Bhattian，根据SAMAA电视记者Bilal Akbar的说法。据警察说，这四人都是用锋利的刀片杀死的。尸体被送到了当地塔鲁卡总部医院。当局说，这名男子在事件发生后逃离，但警方在进行袭击后能够逮捕他。在Jalalpur Bhattian警察局登记了一起针对他的案件。

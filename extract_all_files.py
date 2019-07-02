@@ -50,4 +50,5 @@ def test(t):
     return 'test\n' + t 
 
 if __name__ == "__main__":
-    extract_file(function=test)
+    import google_translate
+    extract_file(source_dir='test', goal_dir='result\\', function=google_translate.get_translate_zh)
