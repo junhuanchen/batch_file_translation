@@ -171,6 +171,9 @@ def get_string(str, cutting_method):
 
 
 def get_translate(context):
+
+    return translate(context)
+
     str = ""
     if len(context) > 5000:
         list = get_string(context, ".")
@@ -188,6 +191,9 @@ def get_translate(context):
 
 
 def get_translate_zh(context):
+
+    return translate_zh(context)
+
     str = ""
     if len(context) > 5000:
         list = get_string(context, ".")
@@ -204,6 +210,9 @@ def get_translate_zh(context):
 #英文翻译中文
 @retry(tries=3)
 def get_zh(context):
+
+    return zh(context)
+
     str = ""
     if len(context) > 5000:
         list = get_string(context, ".")
