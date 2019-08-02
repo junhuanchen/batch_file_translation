@@ -73,9 +73,5 @@ def test(t):
     return 'test\n' + t 
 
 if __name__ == "__main__":
-    # import google_translate
-    # extract_file(source_dir='test', goal_dir='result\\', function=google_translate.get_translate_zh)
-
-    extract_file_by_name(source_dir='test', goal_dir='name\\')
-
-    extract_file_by_suffix(source_dir='test', goal_dir='suffix\\')
+    import google_translate
+    extract_file_by_suffix(source_dir='test', goal_dir='result\\', function=google_translate.get_translate_zh)

@@ -114,3 +114,5 @@ dmypy.json
 .pyre/
 result
 .vscode
+WebBit
+webbit_i18n
